@@ -9,3 +9,6 @@ This repository contains 2 models:
     Method - Counting and ranking product past purchases for each customer and offering him the most common ones.
     
 Assumptions: no demographic or rating data available.
+
+![Figure 2021-11-07 091509](https://user-images.githubusercontent.com/54791267/140636115-3fe3c682-0bfc-45a4-9195-18a0bc6d243a.png)
+

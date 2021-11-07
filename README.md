@@ -1,4 +1,5 @@
 **Recommendation exercise**
+
 This repository contains 2 models:
 
 1. An impersonal model - Different products will appear in different product pages.   
